@@ -1,0 +1,64 @@
+.navbar{
+    position: fixed;
+    top: 0;
+    width: 100%;
+    background-color: white;
+    color: black;
+}
+
+.navbar li {
+    display: inline-block;
+    padding: 0px 20px;
+}
+
+.navbar a{
+    color: black;
+    text-decoration: none;
+}
+
+a:visited{
+    color: black;
+    text-decoration: none;
+
+}
+
+.banner{
+    background-color: #C20F0F;
+    margin-top: 50px;
+    text-align: center;
+    padding: 100px 0px;
+}
+
+.avatar{
+    background-image: url(../images/asuka.jpg);
+    background-size: cover;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 20px;
+
+}
+
+.azukersec{
+    padding: 20px;
+}
+
+#smallazuka{
+    height: 100px;
+    width:  100px;
+    filter: drop-shadow(1px 1px 1px black);
+}
+#azuker{
+    color: #DB7A1F;
+    font-size: 100px;
+}
+
+#greets ul{
+    list-style-type: none;
+}
+
+.bold{
+    font-weight: 900;
+}
