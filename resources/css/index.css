@@ -1,9 +1,14 @@
+html{
+    background-color: rgb(26, 27, 27);
+    color: rgb(244, 237, 225);
+}
+
 .navbar{
     position: fixed;
     top: 0;
     width: 100%;
-    background-color: white;
-    color: black;
+    background-color: rgb(26, 27, 27);
+    color: #DB7A1F;
 }
 
 .navbar li {
@@ -12,18 +17,18 @@
 }
 
 .navbar a{
-    color: black;
+    color: #DB7A1F;
     text-decoration: none;
 }
 
 a:visited{
-    color: black;
+    color: #DB7A1F;
     text-decoration: none;
 
 }
 
 .banner{
-    background-color: #C20F0F;
+    background-color: rgb(143, 20, 18);
     margin-top: 50px;
     text-align: center;
     padding: 100px 0px;
